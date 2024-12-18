@@ -1,0 +1,3 @@
+[submodule "SharedExample"]
+	path = SharedExample
+	url = https://github.com/uapetrony/SharedExample.git
